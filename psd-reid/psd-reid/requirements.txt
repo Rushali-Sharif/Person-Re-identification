@@ -1,0 +1,11 @@
+torch>=2.0
+torchvision
+timm>=0.9
+numpy
+pillow
+scipy
+transformers        # DINOv2 referee feature extraction
+gradio              # demo application
+imageio
+imageio-ffmpeg
+imagecorruptions    # optional: corruption-robustness evaluation
